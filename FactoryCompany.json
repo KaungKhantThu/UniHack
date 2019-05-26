@@ -1,0 +1,94 @@
+﻿{
+    "Sheet1": [
+        {
+            "SR_PCODE": "MMR001",
+            "SR_NAME": "Kachin",
+            "SR_MM_NAME": "ကချင်ပြည်နယ်",
+            "FactoryCompany": "552"
+        },
+        {
+            "SR_PCODE": "MMR002",
+            "SR_NAME": "Kayah",
+            "SR_MM_NAME": "ကယားပြည်နယ်",
+            "FactoryCompany": "94"
+        },
+        {
+            "SR_PCODE": "MMR003",
+            "SR_NAME": "Kayin",
+            "SR_MM_NAME": "ကရင်ပြည်နယ်",
+            "FactoryCompany": "488"
+        },
+        {
+            "SR_PCODE": "MMR004",
+            "SR_NAME": "Chin",
+            "SR_MM_NAME": "ချင်းပြည်နယ်",
+            "FactoryCompany": "70"
+        },
+        {
+            "SR_PCODE": "MMR005",
+            "SR_NAME": "Sagaing",
+            "SR_MM_NAME": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+            "FactoryCompany": "2123"
+        },
+        {
+            "SR_PCODE": "MMR006",
+            "SR_NAME": "Tanintharyi",
+            "SR_MM_NAME": "တနင်္သာရီတိုင်းဒေသကြီး",
+            "FactoryCompany": "169"
+        },
+        {
+            "SR_PCODE": "MMR009",
+            "SR_NAME": "Magway",
+            "SR_MM_NAME": "မကွေးတိုင်းဒေသကြီး",
+            "FactoryCompany": "805"
+        },
+        {
+            "SR_PCODE": "MMR010",
+            "SR_NAME": "Mandalay",
+            "SR_MM_NAME": "မန္တလေးတိုင်းဒေသကြီး",
+            "FactoryCompany": "710"
+        },
+        {
+            "SR_PCODE": "MMR011",
+            "SR_NAME": "Mon",
+            "SR_MM_NAME": "မွန်ပြည်နယ်",
+            "FactoryCompany": "1493"
+        },
+        {
+            "SR_PCODE": "MMR012",
+            "SR_NAME": "Rakhine",
+            "SR_MM_NAME": "ရခိုင်ပြည်နယ်",
+            "FactoryCompany": "761"
+        },
+        {
+            "SR_PCODE": "MMR013",
+            "SR_NAME": "Yangon",
+            "SR_MM_NAME": "ရန်ကုန်ဒေသကြီး",
+            "FactoryCompany": "2280"
+        },
+        {
+            "SR_PCODE": "MMR017",
+            "SR_NAME": "Ayeyarwady",
+            "SR_MM_NAME": "ဧရာဝတီတိုင်းဒေသကြီး",
+            "FactoryCompany": "3553"
+        },
+        {
+            "SR_PCODE": "MMR018",
+            "SR_NAME": "Naypyitaw  Council",
+            "SR_MM_NAME": "နေပြည်တော်",
+            "FactoryCompany": "1350"
+        },
+        {
+            "SR_PCODE": "MMR111",
+            "SR_NAME": "Bago",
+            "SR_MM_NAME": "ပဲခူးတိုင်းဒေသကြီး",
+            "FactoryCompany": "242"
+        },
+        {
+            "SR_PCODE": "MMR222",
+            "SR_NAME": "Shan",
+            "SR_MM_NAME": "ရှမ်းပြည်နယ်",
+            "FactoryCompany": "2562"
+        }
+    ]
+}
