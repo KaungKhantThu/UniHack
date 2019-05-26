@@ -1,0 +1,24 @@
+﻿{
+    "Sheet1": [
+        {
+            "Status": "Decreasing",
+            "Number": "103"
+        },
+        {
+            "Status": "Stable",
+            "Number": "41"
+        },
+        {
+            "Status": "Developing",
+            "Number": "77"
+        },
+        {
+            "Status": "Highly Developing",
+            "Number": "100"
+        },
+        {
+            "Status": "unknown",
+            "Number": "9"
+        }
+    ]
+}
