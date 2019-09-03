@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/KaungKhantThu/UniHack/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<form method="POST" action="https://formspree.io/nicivij@doc-mail.net">
+  <input type="text" name="name" placeholder="Your name">
+  <textarea name="message" placeholder="Your Message"></textarea>
+  <button type="submit">Send Msg</button>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
